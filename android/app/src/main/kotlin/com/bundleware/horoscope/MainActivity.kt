@@ -1,4 +1,4 @@
-package com.bundlegradle.horoscope
+package com.bundleware.horoscope
 
 import io.flutter.embedding.android.FlutterActivity
 

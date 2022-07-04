@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.pink,
         ),
-        title: 'Material App',
+        title: 'Burçlar ve Özellikleri',
         home: BurcListesi());
   }
 }
