@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.bundleware.horoscope">
    <application
-        android:label="Burçlar ve Açıklamaları"
+        android:label="Burçlar ve Özellikleri"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
